@@ -8,10 +8,6 @@ I work on end-to-end product development — from research and interaction desig
 
 ---
 
-## 🎁 It’s a Wrap: 2025
-
-<img width="1280" height="720" alt="A snapshot of a year spent building, shipping, and experimenting." src="https://github.com/user-attachments/assets/8cfb16e7-891b-4bd9-9ac9-b5e0a2796d04" />
-
 
 ## What I work on
 
